@@ -29,7 +29,10 @@ building something, even something as small as this. Whether I actually improve
 it in the future is a very hand-wavy ordeal. 
 
 Currently, it only works with cities in the U.S. (that I have found, at least), 
-and it will need some improvements to work for any country on earth. 
+and it will need some improvements to work for any country on earth. The NWS 
+(National Weather Service) API only provides weather data for U.S. locations, so 
+if I want to get weather data from places outside the U.S., I will need to use 
+the OpenWeatherMap API.
 
 ### credits
 
